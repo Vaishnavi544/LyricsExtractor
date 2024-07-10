@@ -48,7 +48,7 @@ Lyrics Extractor is a Python GUI application built with tkinter that allows user
   ```
 
 - Enter the name of the song  in the provided fields.
-- Click on the "Fetch Lyrics" button to retrieve and display the lyrics.
+- Click on the "Generate Lyrics" button to retrieve and display the lyrics.
 - Ensure an active internet connection for fetching lyrics from the Genius API.
 
 ## Dependencies
